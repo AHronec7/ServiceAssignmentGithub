@@ -1,0 +1,6 @@
+G:\C#\ServiceAssignment0917\0917Service\0917Service\bin\Debug\0917Service.exe.config
+G:\C#\ServiceAssignment0917\0917Service\0917Service\bin\Debug\0917Service.exe
+G:\C#\ServiceAssignment0917\0917Service\0917Service\bin\Debug\0917Service.pdb
+G:\C#\ServiceAssignment0917\0917Service\0917Service\obj\Debug\0917Service.csprojResolveAssemblyReference.cache
+G:\C#\ServiceAssignment0917\0917Service\0917Service\obj\Debug\0917Service.exe
+G:\C#\ServiceAssignment0917\0917Service\0917Service\obj\Debug\0917Service.pdb

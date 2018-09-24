@@ -1,0 +1,8 @@
+G:\C#\ServiceAssignment0917\0917Service\0917Service\obj\Debug\ServiceAssignment.csprojResolveAssemblyReference.cache
+G:\C#\ServiceAssignment0917\0917Service\0917Service\obj\Debug\_0917Service.Service1.resources
+G:\C#\ServiceAssignment0917\0917Service\0917Service\obj\Debug\ServiceAssignment.csproj.GenerateResource.Cache
+G:\C#\ServiceAssignment0917\0917Service\0917Service\obj\Debug\0917Service.exe
+G:\C#\ServiceAssignment0917\0917Service\0917Service\obj\Debug\0917Service.pdb
+G:\C#\ServiceAssignment0917\0917Service\0917Service\bin\Debug\0917Service.exe.config
+G:\C#\ServiceAssignment0917\0917Service\0917Service\bin\Debug\0917Service.exe
+G:\C#\ServiceAssignment0917\0917Service\0917Service\bin\Debug\0917Service.pdb
